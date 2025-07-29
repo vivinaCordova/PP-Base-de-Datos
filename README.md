@@ -2,5 +2,5 @@
 
 ## Diagrama Entidad/Relación
 
-## Diagrama Reacional 
+## Diagrama Relacional 
 
