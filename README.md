@@ -1,10 +1,16 @@
 # Practicas-PPBD-
+## Integrantes:
+- Arelys Anahi Ajila Apolo          [`Aree17`](https://github.com/Aree17)
+- Viviana Elizabeth Córdova Celi    [`vivinaCordova`](https://github.com/vivinaCordova/)
+- Fabricio Josue Ruiz Aguilar       [`Michu117`](https://github.com/Michu117)
 
-## Diagrama Entidad/Relación
+## Diagrama Modelo Entidad/Relación
+<div align="center">
+  <img height="" src= "diagrama modelo entidad-relacion.png" />
+</div>
 
-![Diagrama entidad relación](https://github.com/user-attachments/assets/6c8dedc2-9505-421f-8aff-f717c87fec03)
-
-## Diagrama Relacional 
-
-![Diagrama relacional](https://github.com/user-attachments/assets/fe95ba5c-e144-49e2-8cc6-72a0ed8543ad)
+## Diagrama Modelo Relacional 
+<div align="center">
+  <img height="" src= "diagrama modelo relacional.png" />
+</div>
 
