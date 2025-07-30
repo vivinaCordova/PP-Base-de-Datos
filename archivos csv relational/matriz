@@ -1,0 +1,26 @@
+{
+  "header": ["id", "area_detectada", "descripcion_riesgo", "probabilidad", "notas_progreso", "efecto_total", "accion_preventiva", "riesgo"],
+  "content": [
+    [1, "Ventas", "Error de registro", 80, "Se mejoró validación", 75, "Pruebas automáticas", 1],
+    [2, "Inventario", "Desfase en conteo", 60, "Revisión mensual", 50, "Checklist diario", 2],
+    [3, "Reportes", "No generación de informes", 40, "Se implementó backup", 35, "Alertas al usuario", 3],
+    [4, "Turnos", "Turnos duplicados", 45, "Nuevo formato aplicado", 40, "Validación cruzada", 4],
+    [5, "Medicamentos", "Vencimientos no detectados", 85, "Sistema de alertas", 80, "Verificación de fechas", 5],
+    [6, "Alertas", "Alertas no llegan", 55, "Revisión de lógica", 50, "Notificación paralela", 6],
+    [7, "Facturación", "Errores en precios", 90, "Script validado", 85, "Control doble", 7],
+    [8, "Proveedores", "Sin datos completos", 30, "Formulario actualizado", 25, "Campos obligatorios", 8],
+    [9, "Tareas", "Duplicación", 65, "Asignación por ID único", 60, "Validación UI", 9],
+    [10, "Reportes", "Falta de precisión", 35, "Se mejoró query", 30, "Indexado de datos", 10],
+    [11, "Evaluaciones", "Manipulación posible", 70, "Control de acceso", 65, "Token de seguridad", 11],
+    [12, "Documentos", "Desorden en archivo", 50, "Etiquetado automático", 45, "Sistema de categorías", 12],
+    [13, "Pedidos", "Pedidos perdidos", 85, "Logs habilitados", 80, "Revisión de endpoints", 13],
+    [14, "Cocina", "Sin ingredientes", 60, "Control diario", 55, "Stock mínimo", 14],
+    [15, "Cuentas", "Impuestos mal calculados", 40, "Lógica corregida", 35, "Validación fiscal", 15],
+    [16, "Reservas", "Duplicación de reservas", 55, "Bloqueo de horarios", 50, "Verificación previa", 16],
+    [17, "Escáner", "Falla en lectura", 75, "Actualización de drivers", 70, "Escaneo doble", 17],
+    [18, "Promociones", "Descuentos no aplicados", 60, "Pruebas funcionales", 55, "Control por rol", 18],
+    [19, "Stock", "No actualización", 90, "Transacción completa", 85, "Confirmación postventa", 19],
+    [20, "Ventas", "Reportes erróneos", 45, "Logs agregados", 40, "Control cruzado", 20]
+  ]
+}
+

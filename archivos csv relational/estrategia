@@ -1,0 +1,26 @@
+{
+  "header": ["id", "tipo", "descripcion", "fecha", "resultados", "matriz"],
+  "content": [
+    [1, "Mitigacion", "Revisión de formularios", "2025-06-21", "Errores reducidos", 1],
+    [2, "Mitigacion", "Checklist de stock", "2025-06-21", "Conteo preciso", 2],
+    [3, "Aceptacion", "Tolerar leves desfases", "2025-06-21", "Impacto menor", 3],
+    [4, "Mitigacion", "Cruzar datos de turnos", "2025-06-21", "Reducción de duplicados", 4],
+    [5, "Evitacion", "Bloquear ventas vencidas", "2025-06-22", "Evita errores graves", 5],
+    [6, "Mitigacion", "Duplicar canal de alerta", "2025-06-22", "Mayor cobertura", 6],
+    [7, "Mitigacion", "Validación de facturas", "2025-06-22", "Errores corregidos", 7],
+    [8, "Transferencia", "Validación proveedor", "2025-06-22", "Datos completos", 8],
+    [9, "Mitigacion", "ID único de tarea", "2025-06-23", "Sin duplicados", 9],
+    [10, "Aceptacion", "Aceptar pequeña imprecisión", "2025-06-23", "Negligible", 10],
+    [11, "Evitacion", "Token de firma segura", "2025-06-23", "Resultados válidos", 11],
+    [12, "Mitigacion", "Etiquetado inteligente", "2025-06-23", "Mejor organización", 12],
+    [13, "Mitigacion", "Log de pedidos", "2025-06-24", "Pedidos trazables", 13],
+    [14, "Mitigacion", "Alerta de stock mínimo", "2025-06-24", "Menos errores", 14],
+    [15, "Mitigacion", "Verificación tributaria", "2025-06-24", "Cálculo correcto", 15],
+    [16, "Mitigacion", "Validación de horario", "2025-06-24", "Reservas únicas", 16],
+    [17, "Transferencia", "Verificación escáner", "2025-06-25", "Lecturas correctas", 17],
+    [18, "Mitigacion", "Autorización de promociones", "2025-06-25", "Aplicación precisa", 18],
+    [19, "Mitigacion", "Postventa obliga stock update", "2025-06-25", "Sin inconsistencias", 19],
+    [20, "Aceptacion", "Aceptar retrasos leves", "2025-06-25", "No crítico", 20]
+  ]
+}
+

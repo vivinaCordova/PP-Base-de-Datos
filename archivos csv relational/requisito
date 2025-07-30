@@ -1,0 +1,30 @@
+{
+  "header": ["id", "descripcion", "proyecto"],
+  "content": [
+    [1, "El sistema debe registrar las ventas diarias de combustible.", 1],
+    [2, "El sistema debe permitir la gestión de inventario de combustibles.", 1],
+    [3, "El sistema debe generar reportes de ingresos mensuales.", 1],
+    [4, "El sistema debe permitir el registro de turnos de empleados.", 1],
+    
+    [5, "El sistema debe gestionar el inventario de medicamentos y productos médicos.", 2],
+    [6, "El sistema debe emitir alertas de vencimiento de medicamentos.", 2],
+    [7, "El sistema debe registrar ventas y emitir facturas electrónicas.", 2],
+    [8, "El sistema debe permitir el registro de proveedores.", 2],
+    
+    [9, "El sistema debe permitir la asignación de tareas a los empleados.", 3],
+    [10, "El sistema debe generar reportes de productividad por departamento.", 3],
+    [11, "El sistema debe permitir la evaluación del desempeño del personal.", 3],
+    [12, "El sistema debe incluir un módulo de gestión de documentos.", 3],
+    
+    [13, "El sistema debe permitir la toma de pedidos desde mesas o para llevar.", 4],
+    [14, "El sistema debe gestionar el inventario de ingredientes.", 4],
+    [15, "El sistema debe calcular automáticamente la cuenta total con impuestos.", 4],
+    [16, "El sistema debe gestionar reservas de mesas.", 4],
+    
+    [17, "El sistema debe registrar productos con código de barras.", 5],
+    [18, "El sistema debe permitir la gestión de descuentos y promociones.", 5],
+    [19, "El sistema debe registrar ventas y controlar el stock automáticamente.", 5],
+    [20, "El sistema debe generar reportes de productos más vendidos.", 5]
+  ]
+}
+

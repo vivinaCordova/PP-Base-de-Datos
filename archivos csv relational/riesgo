@@ -1,0 +1,26 @@
+{
+  "header": ["id", "urgencia", "descripcion", "tipo", "estado", "fechaIdentificacion", "requisito"],
+  "content": [
+    [1, "Alto", "Error en registro de ventas", "Tecnicos", "Activo", "2025-06-01", 1],
+    [2, "Medio", "Desfase en stock de combustibles", "Tecnicos", "Mitigado", "2025-06-02", 2],
+    [3, "Bajo", "Fallas en generación de reportes", "De Proyecto", "Controlado", "2025-06-03", 3],
+    [4, "Medio", "Turnos mal configurados", "De Proyecto", "Resuelto", "2025-06-04", 4],
+    [5, "Alto", "Medicamentos vencidos no detectados", "Tecnicos", "Activo", "2025-06-05", 5],
+    [6, "Medio", "Alertas no funcionales", "Tecnicos", "Mitigado", "2025-06-06", 6],
+    [7, "Alto", "Errores en facturación", "Tecnicos", "Controlado", "2025-06-07", 7],
+    [8, "Bajo", "Falta de proveedores registrados", "De Proyecto", "Resuelto", "2025-06-08", 8],
+    [9, "Medio", "Tareas mal asignadas", "De Proyecto", "Mitigado", "2025-06-09", 9],
+    [10, "Bajo", "Datos incompletos en reportes", "De Proyecto", "Controlado", "2025-06-10", 10],
+    [11, "Alto", "Manipulación de evaluaciones", "Externos", "Activo", "2025-06-11", 11],
+    [12, "Medio", "Documentos mal organizados", "Tecnicos", "Mitigado", "2025-06-12", 12],
+    [13, "Alto", "Pedidos perdidos", "Tecnicos", "Activo", "2025-06-13", 13],
+    [14, "Medio", "Faltante de ingredientes", "Tecnicos", "Mitigado", "2025-06-14", 14],
+    [15, "Bajo", "Errores en impuestos", "Tecnicos", "Resuelto", "2025-06-15", 15],
+    [16, "Medio", "Reservas duplicadas", "De Proyecto", "Controlado", "2025-06-16", 16],
+    [17, "Alto", "Lectura errónea de códigos", "Tecnicos", "Activo", "2025-06-17", 17],
+    [18, "Medio", "Descuentos incorrectos", "Tecnicos", "Mitigado", "2025-06-18", 18],
+    [19, "Alto", "Stock no actualizado", "Tecnicos", "Controlado", "2025-06-19", 19],
+    [20, "Bajo", "Errores en reportes de ventas", "De Proyecto", "Resuelto", "2025-06-20", 20]
+  ]
+}
+

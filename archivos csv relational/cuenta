@@ -1,0 +1,26 @@
+{
+  "header": ["id", "correo", "clave", "rol", "estado"],
+  "content": [
+    [1, "ana.gomez@unl.edu.ec", "pass1", "Estudiante", "Activa"],
+    [2, "luis.ramos@unl.edu.ec", "pass2", "Docente", "Activa"],
+    [3, "carlos.mendoza@unl.edu.ec", "pass3", "Jefe Carrera", "Activa"],
+    [4, "maria.lopez@unl.edu.ec", "pass4", "Estudiante", "Activa"],
+    [5, "jorge.vega@unl.edu.ec", "pass5", "Docente", "Activa"],
+    [6, "rosa.calle@unl.edu.ec", "pass6", "Estudiante", "Activa"],
+    [7, "david.morales@unl.edu.ec", "pass7", "Docente", "Activa"],
+    [8, "gloria.torres@unl.edu.ec", "pass8", "Estudiante", "Activa"],
+    [9, "jose.villavicencio@unl.edu.ec", "pass9", "Jefe Carrera", "Activa"],
+    [10, "lucia.mendez@unl.edu.ec", "pass10", "Docente", "Activa"],
+    [11, "kevin.salazar@unl.edu.ec", "pass11", "Estudiante", "Activa"],
+    [12, "fernando.paredes@unl.edu.ec", "pass12", "Docente", "Activa"],
+    [13, "daniela.espinoza@unl.edu.ec", "pass13", "Estudiante", "Activa"],
+    [14, "andres.brito@unl.edu.ec", "pass14", "Estudiante", "Activa"],
+    [15, "monica.lima@unl.edu.ec", "pass15", "Docente", "Activa"],
+    [16, "veronica.mora@unl.edu.ec", "pass16", "Estudiante", "Activa"],
+    [17, "oscar.luna@unl.edu.ec", "pass17", "Docente", "Activa"],
+    [18, "adriana.paz@unl.edu.ec", "pass18", "Estudiante", "Activa"],
+    [19, "gustavo.cobo@unl.edu.ec", "pass19", "Docente", "Activa"],
+    [20, "pamela.vaca@unl.edu.ec", "pass20", "Estudiante", "Activa"]
+  ]
+}
+
