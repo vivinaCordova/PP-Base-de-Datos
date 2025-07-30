@@ -2,9 +2,9 @@
 
 ## Diagrama Entidad/Relación
 
-![Diagrama entidad relación](https://github.com/user-attachments/assets/86ac2c52-6a48-46f1-b9f1-fe11b717f012)
+![Diagrama entidad relación](https://github.com/user-attachments/assets/85e512fb-95c0-4dff-b909-4fd102342f5f)
 
 ## Diagrama Relacional 
 
-![Diagrama relacional](https://github.com/user-attachments/assets/b506b009-9c79-458e-a534-89d88fa4e13e)
+![Diagrama relacional](https://github.com/user-attachments/assets/d99bfd00-b408-4f53-a696-63b125356827)
 
