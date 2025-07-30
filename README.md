@@ -6,5 +6,5 @@
 
 ## Diagrama Relacional 
 
-![Diagrama relacional](https://github.com/user-attachments/assets/8a267fba-edfd-4e63-9920-3d393aed440b)
+![Diagrama relacional](https://github.com/user-attachments/assets/fe95ba5c-e144-49e2-8cc6-72a0ed8543ad)
 
