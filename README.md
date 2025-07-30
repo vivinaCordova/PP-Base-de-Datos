@@ -6,3 +6,5 @@
 
 ## Diagrama Relacional 
 
+![Diagrama relacional](https://github.com/user-attachments/assets/b506b009-9c79-458e-a534-89d88fa4e13e)
+
