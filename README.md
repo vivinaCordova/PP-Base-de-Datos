@@ -14,3 +14,7 @@
   <img height="" src= "diagrama modelo relacional.png" />
 </div>
 
+
+[Backup de la BD en .sql](https://github.com/vivinaCordova/PP-Base-de-Datos/blob/main/gestion_riesgos_respaldo_pp.sql)
+
+[Archivos .csv](https://github.com/vivinaCordova/PP-Base-de-Datos/tree/main/archivos%20csv%20relational)
